@@ -1,13 +1,11 @@
-# Please don't send any PR's as i'm not accepting them at this moment!
 
 ---
 
-## Laravel 4 - Starter Kit
+## Laravel 4
 
-This is a Laravel 4 Starter Kit and it will help you getting started with Laravel 4.
+This is a Laravel 4 Portfolio project to help me get started with Laravel 4.
 
-It includes examples on how to use the framework itself and how to use some
-packages, like the awesome [Sentry 2](https://github.com/cartalyst/sentry) package.
+It uses somepackages, like the awesome [Sentry 2](https://github.com/cartalyst/sentry) package.
 
 -----
 
@@ -31,6 +29,7 @@ packages, like the awesome [Sentry 2](https://github.com/cartalyst/sentry) packa
 	* Contact us page
 * Packages included:
 	* [Cartalyst Sentry 2 - Authentication and Authorization package](https://github.com/cartalyst/sentry)
+	* [Way's Generators 1 - Rapid Wordflow Environment Tool ](google jeffery way generators laravel)
 
 -----
 
@@ -99,31 +98,3 @@ To access the administration page, you just need to access `http://your-host/pub
 After you being authenticated, you will be redirected back to the administration page.
 
 -----
-
-### LICENSE
-
-> Version 1, December 2009
-
-> Copyright (C) 2009 Philip Sturgeon <email@philsturgeon.co.uk>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-> DON'T BE A DICK PUBLIC LICENSE
-> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
- 1. Do whatever you like with the original work, just don't be a dick.
-
-     Being a dick includes - but is not limited to - the following instances:
-
-	 1a. Outright copyright infringement - Don't just copy this and change the name.
-	 1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.
-	 1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.
-
- 2. If you become rich through modifications, related works/services, or supporting the original work,
- share the love. Only a dick would make loads off this work and not buy the original works
- creator(s) a pint.
-
- 3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes
- you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back.
